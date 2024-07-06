@@ -1,7 +1,7 @@
 ---
 date: 2017-04-10T11:00:59-04:00
 description: "Yorkshire Amateurs Announce New Kit Sponsor"
-featured_image: "images/siddle_sponsor_football.jpg"
+featured_image: "post/sponsorship/siddle_sponsor_football.jpg"
 tags: ['sponsorship', 'football']
 title: "Local Sponsorship"
 ---
