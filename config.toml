@@ -1,3 +1,4 @@
+publishDir = 'docs'
 baseURL = 'https://siddleengineering.com/'
 languageCode = 'en-us'
 title = 'Siddle Engineering'
