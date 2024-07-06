@@ -1,0 +1,10 @@
+{{ with $.Site.Params.Contact_button }}
+{{ $details := printf "{\"name\":%q, \"mobile\":%q, \"email\":%q}" .name .mobile .email }}
+<a 
+class="link db f6 pa2 br3 bg-mid-gray white dim w4 tc contact-btn"
+data-details="{{ $details | base64Encode }}"
+onclick="showContactModal(event)"
+>
+Contact Me
+</a>
+{{ end }}

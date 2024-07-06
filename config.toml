@@ -1,0 +1,23 @@
+baseURL = 'https://siddleengineering.com/'
+languageCode = 'en-us'
+title = 'Siddle Engineering'
+theme = 'ananke'
+
+[params]
+  custom_css = ["custom.css"]
+  text_color = ""
+  author = "Peter Siddle"
+  favicon = ""
+  site_logo = "images/se_banner_650.png"
+  description = "Siddle Engineering"
+  background_color_class = "bg-dark-blue"
+  recent_posts_number = 3
+  
+[params.contact_button]
+  name = "Peter Siddle"
+  mobile = "0#7#9#6#4#7#0#9#3#5#0"
+  email = "peter.siddleATsiddleengineering.com"
+
+[[params.ananke_socials]]
+name = "instagram"
+url = "https://www.instagram.com/siddle_engineering"
