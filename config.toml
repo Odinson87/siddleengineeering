@@ -1,4 +1,5 @@
 publishDir = 'docs'
+relativeURLs = true
 baseURL = 'https://siddleengineering.com/'
 languageCode = 'en-us'
 title = 'Siddle Engineering'
