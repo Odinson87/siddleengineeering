@@ -7,6 +7,12 @@ body > header nav .ananke-socials > a{
     color: #00449e;
 }
 
+article figure { 
+    margin:0px;
+}
+article figure.w-100 img {
+    width:100%;
+}
 figure.circle img {
     border-radius:100%;
 }

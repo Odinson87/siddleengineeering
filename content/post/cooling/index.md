@@ -1,7 +1,7 @@
 ---
 date: 2017-04-09T10:58:08-04:00
 description: "Bespoke Powertrain Cooling Systems for High Performance Vehicles"
-featured_image: "post/cooling/car-intercooler.jpg"
+featured_image: "images/car-intercooler.jpg"
 tags: ["engineering"]
 title: "Cooling"
 ---
